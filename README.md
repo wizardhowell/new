@@ -12,7 +12,7 @@
 4. WOW.
 5. Bacon.
 
-**Here are some codes**
+**Here are some degrees of done-ness**
 
 |Colour|Cooked|
 |------|------|
