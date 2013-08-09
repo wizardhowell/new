@@ -1,21 +1,22 @@
-# RESISTORS WTF!!!  
-## By An Author  
-### A converted academy resource
+# Title WTF!!!  
+## Subheading  
+### Subsubheading
 
-[Resistors](http://en.wikipedia.org/wiki/Resistor) are so exciting I can barely contain myself.
-![Resistors](http://upload.wikimedia.org/wikipedia/commons/e/e6/Resistor.jpg)  
+[Bacon](http://en.wikipedia.org/wiki/Bacon) is so delicious. I can barely contain myself.  
 
-> WOW Resistors are great
+> WOW, Bacon is great
 
-1. They resist.
-2. They have colours bands.
-3. They are small
+1. Maximum bacon.
+2. Such flavour.
+3. So WOW.
+4. WOW.
+5. Bacon.
 
 **Here are some codes**
 
-|Colour|Multiplier|
-|------|----------|
-|Black |0         |
-|Brown |1         |  
-|Red   |2         |
-|Orange|3         |
+|Colour|Cooked|
+|------|------|
+|Black |over  |
+|Brown |yes   |  
+|Pink  |no    |
+|Green |...   |
